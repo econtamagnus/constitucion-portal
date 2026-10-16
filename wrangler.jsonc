@@ -1,0 +1,8 @@
+// Generado por el sistema en cada publicación. No editar.
+// Cloudflare Workers Builds lo usa si el Worker "constitucion-econtamagnus" está conectado a este repositorio.
+{
+  "name": "constitucion-econtamagnus",
+  "main": "portal.js",
+  "compatibility_date": "2026-01-01",
+  "workers_dev": true
+}
