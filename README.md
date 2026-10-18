@@ -5,4 +5,4 @@ Generado y publicado automáticamente desde el panel (Configuración › Publica
 - `index.html`, `_headers`, `404.html`: el portal (Cloudflare Pages).
 - `portal.js` + `wrangler.jsonc`: el mismo portal como Worker (Cloudflare Workers Builds, si conectas el Worker a este repositorio).
 
-API: https://script.google.com/macros/s/AKfycbwAihPNb4jQq2Qc2bJQn7uwjAHTG40h-RAGkx2G4pg1sS_hMaKQ2zYyJFU2Jur8KNCy/exec
+API: https://script.google.com/macros/s/AKfycbwcuzwSmlH0xdvww6D-X1TctLeo-74uws_5OP2YFzsKQJwNlWQ/exec
